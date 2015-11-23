@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://mizanrahman.github.io/sitemap.xml 
